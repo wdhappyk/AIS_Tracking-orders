@@ -1,0 +1,17 @@
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.SignInForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.Properties.Resources.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders Accounting.csproj.GenerateResource.cache
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\bin\Debug\Orders Accounting.exe.config
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\bin\Debug\Orders Accounting.exe
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\bin\Debug\Orders Accounting.pdb
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders Accounting.exe
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders Accounting.pdb
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.MainForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders Accounting.csproj.ResolveComReference.cache
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.TableToXlsForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.ClientSelectForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.EditWorkStageForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.EditEmployeeForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.EmployeeSelectForm.resources
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders Accounting.csprojAssemblyReference.cache
+D:\Projects\C-Sharp\Infostandart\Orders Accounting\Orders Accounting\obj\Debug\Orders_Accounting.ChangeDbConnection.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders Accounting", "Orders Accounting\Orders Accounting.csproj", "{62E71CD2-09BA-4119-A9DC-BB2D76B16AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E71CD2-09BA-4119-A9DC-BB2D76B16AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E71CD2-09BA-4119-A9DC-BB2D76B16AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E71CD2-09BA-4119-A9DC-BB2D76B16AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E71CD2-09BA-4119-A9DC-BB2D76B16AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3CAFDC1-B86F-4F97-A74B-6CC386CBCC1A}
+	EndGlobalSection
+EndGlobal
